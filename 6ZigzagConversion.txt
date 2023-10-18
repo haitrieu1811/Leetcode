@@ -1,0 +1,19 @@
+- tìm được số cột tính diện tích
+- phác họa các ô theo diện tích
+- điền các từ vào ô theo index
+- loại bỏ các giá trị trong mảng mang giá trị ' '
+- join mảng thành chuỗi
+
+ta đang có: 
+độ dài chuỗi "PAYPALISHIRING" = 14
+rows = 3
+
+phần xéo = rows - 2 
+=> 3 - 2 = 1
+
+4 kí tự = 2 cột
+7 kí tự = 3 cột
+8 kí tự = 4 cột
+11 kí tự = 5 cột
+12 kí tự = 6 cột 
+15 kí tự = 7 cột
