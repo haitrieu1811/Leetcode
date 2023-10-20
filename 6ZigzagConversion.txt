@@ -16,4 +16,4 @@ phần xéo = rows - 2
 8 kí tự = 4 cột
 11 kí tự = 5 cột
 12 kí tự = 6 cột 
-15 kí tự = 7 cột
+15 kí tự = 7 cột  
